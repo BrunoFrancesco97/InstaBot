@@ -1,6 +1,6 @@
 # InstaBot
 Piccolo programma scritto in Python che permette di ricavare una lista contenente tutte le persone che non ricambiano il follow nel social network Instagram.
-## NOTA BENE: Non supporta 2FA, se si vuole utilizzare bisogna quindi disabilitare temporaneamente l'autenticazione a due fattori.
+### NOTA BENE: Non supporta 2FA, se si vuole utilizzare bisogna quindi disabilitare temporaneamente l'autenticazione a due fattori.
 
 Prima di poter utilizzare il programma bisogna avere Python installato sulla propria macchina e bisogna aver installato le seguenti librerie:
 - NumPy
