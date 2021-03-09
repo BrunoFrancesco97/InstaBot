@@ -12,7 +12,7 @@ In caso non siano già installate eseguire i seguenti comandi a riga di comando:
   
 Arrivati a questo punto, per poter utilizzare lo script, scarica il file python, posizionalo arbitrariamente dove vuoi e segui questo format per avviarlo:
   
-  python bot.py YourInstagramUsername YourInstagramPassword
+  __python bot.py YourInstagramUsername YourInstagramPassword__
   
 E' importante sottolineare che il programma non memorizza alcun username o password dell'utente che lo utilizza. 
 
