@@ -5,6 +5,7 @@ Piccolo programma scritto in Python che permette di ricavare una lista contenent
 Prima di poter utilizzare il programma bisogna avere Python installato sulla propria macchina e bisogna aver installato le seguenti librerie:
 - NumPy
 - Instaloader
+
 In caso non siano già installate eseguire i seguenti comandi a riga di comando:
   pip install numpy
   pip install instaloader
