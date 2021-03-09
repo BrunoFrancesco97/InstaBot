@@ -15,4 +15,4 @@ Arrivati a questo punto, per poter utilizzare lo script, scarica il file python,
   __python bot.py YourInstagramUsername YourInstagramPassword__
   
 E' importante sottolineare che il programma non memorizza alcun username o password dell'utente che lo utilizza. 
-
+Il programmma è ad uno stato molto primitivo e sicuramente in futuro evolverà, integrando una lista di persona che unfollowano l'user e che non necessariamente quest'ultimo segue.
